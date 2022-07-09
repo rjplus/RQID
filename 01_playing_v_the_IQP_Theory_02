@@ -1,0 +1,13 @@
+FEN: 3r2k1/pp1r1ppp/4q3/3p4/3R4/4P3/PP1R1PPP/3Q2K1 w - - 0 1
+
+
+In the last example, I've told you White is looking to trade the minor pieces and then blockade the isolated pawn and attack it with his major pieces. Now, a fair question arises: once we did that, then what? Here, we have a very strong idea, please find it.
+1.e4!
+White wins a pawn, because the d5-pawn is pinned.
+1...g6
+Instead, if Black just plays some move, we pick up the pawn.
+1...dxe4??2.xd7+- And we win a rook and the game.
+2.Rxd5 Rxd5 3.Rxd5 Rxd5 4.exd5±
+With a nearly winning endgame. It might still take work to convert, but we are just a healthy pawn up, which is a pretty great outcome, if you ask me.
+4.Qxd5? Would be a mistake, however, because the Black king is too close to the pawn.4...Qxd5 5.exd5 Kf8 6.Kf1 Ke7 7.Ke2 Kd6 8.Kd3 Kxd5= 
+...And we wasted all the advantage.
