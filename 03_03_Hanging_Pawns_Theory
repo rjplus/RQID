@@ -1,0 +1,32 @@
+FEN: 6k1/p4ppp/8/2pp4/8/4P3/PP3PPP/6K1 w - - 0 1
+
+The next most common structure after the IQP positions is the position with hanging pawns.
+
+Unlike the IQP, which we mostly play against, positions with hanging pawns are something we both get and play against in this course.
+
+Of course, it is worth mentioning the IQP position can easily transpose into a position with hanging pawns, for example, if Black has an isolated d5-pawn and then we take his knight on c6, to which he responds with ...bxc6.
+
+What are the pros and cons?
+
+The advantages look the following way:
+
+1) Just like an IQP, hanging pawns control a lot of space, and in fact, they control a lot more squares: for example, in the position in front of us, they control the squares on b4, c4, d4 and e4.
+
+2) Unlike the IQP, the hanging pawns cannot be blockaded nearly as easily: for example, the d4-square is no longer an outpost.
+
+3) Since they cannot be blockaded, at an appropriate moment they can advance, which could be rather beneficial. For instance, imagine a black bishop on b7 and queen on c6, blocked by the d5-pawn. Once that pawn goes to d4, especially if that happens with a tempo, Black might end up checkmating White on the long diagonal.
+
+However, there are also downsides.
+
+Just like an IQP, it is easy to attack the hanging pawns on the c and d-file with Rac1 and Rfd1, for example.
+
+While Black can try to time the advance of one of the pawns, which will unleash the pieces behind them, a poorly timed or forced pawn advance could also be very beneficial to White, as it would weaken some squares.
+
+For example, if the c-pawn moved to c4, the d4-square would become weak.
+
+That is why one of the most common plans for White involves preparing b3-b4 or e3-e4, forcing the advance of one of the pawns.
+
+But overall, if the pawns are positioned properly on c5 and d5, it is correct to say that in 99% of the cases it is better for the side with the hanging pawns to have them rather than the IQP. However, that is not true if the pawns are placed poorly, such as on d5 and c6, because White might be able to blockade the pawns and install his pieces on the gorgeous outposts on d4 and c5.
+
+Also, overall it is fair to say the side who has the hanging pawns wants to keep the pieces on the board, because they are a dynamic advantage and a static weakness.
+1.Kf1
